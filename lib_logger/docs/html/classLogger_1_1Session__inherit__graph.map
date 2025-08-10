@@ -1,0 +1,7 @@
+<map id="Logger::Session" name="Logger::Session">
+<area shape="rect" id="Node000001" title="Абстрактный интерфейс сессии логирования" alt="" coords="113,5,237,31"/>
+<area shape="rect" id="Node000002" href="$classLogger_1_1File__logging.html" title="Реализация сессии логирования в файл." alt="" coords="5,79,157,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,41,98,81,95,76,147,37"/>
+<area shape="rect" id="Node000003" href="$classLogger_1_1Socket__logging.html" title="Реализация сессии логирования через сокет" alt="" coords="182,79,354,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,37,254,76,251,81,199,41"/>
+</map>
